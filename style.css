@@ -1,0 +1,30 @@
+body { background-color: #827397;}  
+                      hr { 
+                         border-style: dotted none none ;
+                         border-color: goldenrod  ;
+                         border-width:10px ;
+                         height: 0px;
+                         width: 5%;} 
+
+                         h1{
+                             font-style: ;
+                             color: #66BFBF;
+                         }
+                         h3{
+                             color: #66BFBF;
+                         }
+                         img{
+                             background-color: red ;
+                         }
+                         /*
+                         this is wy to write comment in css.
+
+                         now iam trying to change radius of img used line112 different
+                         from img used in line113 for this we need to create a class 
+                         */
+                         .intention{
+                             border-radius: 50px;
+                         }
+                         .wallpaper{
+                             border-radius: 20px;
+                         }
