@@ -24,7 +24,8 @@
 <p align="left">
 <a href="https://twitter.com/asadshoyeb" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asadshoyeb" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/asad-shoyeb-khan-76942b192" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad-shoyeb-khan-76942b192" height="30" width="40" /></a>
-  
+<a href="mailto:asadshoyebkhan@gmail.com" target="_blank" rel="noopener"><img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/23/ee/9d/23ee9d16-3669-3687-b87a-a5ee98e457c4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" alt="asad-shoyeb-khan-76942b192" height="40" width="60" /></a>
+
 <!-- <a href="https://www.codechef.com/users/asadshoyebkhan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asadshoyebkhan" height="30" width="40" /></a>
   
 <a href="https://www.leetcode.com/user5142ib/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5142ib/" height="30" width="40" /></a>
